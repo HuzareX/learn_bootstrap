@@ -18,3 +18,9 @@ body {
 .card-link {
     text-decoration: none;
 }
+
+/*team*/
+
+.team {
+    background-color: rgb(0, 0, 0);
+}
