@@ -107,3 +107,21 @@ body {
 .team .card-title {
 	font-size: 2rem;
 }
+
+/*kontakt*/
+
+.contact h3 {
+	font-size: 2rem;
+	font-weight: bold;
+}
+
+.contact .submit-btn {
+	font-size: 1.6rem;
+}
+
+form .input-group input {
+	font-size: 1.6rem;
+}
+form .input-group textarea {
+	font-size: 1.6rem;
+}
