@@ -15,6 +15,16 @@ body {
 	background-color: rgb(255, 255, 255);
 }
 
+[id] {
+	scroll-margin-top: 84px;
+}
+
+@media (min-width: 992px) {
+	[id] {
+		scroll-margin-top: 69px;
+	}
+}
+
 .hero-shadow {
 	position: absolute;
 	top: 0;
