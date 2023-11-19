@@ -80,12 +80,23 @@ header {
 }
 
 .main2 .img-wrapper {
+	position: relative;
 	background-image: url(../img/sunset-685927_1280.jpg);
 	background-position: center;
 	background-size: cover;
 	height: 300px;
+	z-index: 0;
 }
 
+.home-brand h3 {
+	font-size: 3rem;
+	font-weight: bold;
+}
+
+/*footer*/
+footer {
+	font-size: 1.6rem;
+}
 
 
 
